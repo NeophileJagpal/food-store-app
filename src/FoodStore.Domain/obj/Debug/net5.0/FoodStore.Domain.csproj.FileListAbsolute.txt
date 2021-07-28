@@ -1,0 +1,15 @@
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\bin\Debug\net5.0\FoodStore.Domain.deps.json
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\bin\Debug\net5.0\FoodStore.Domain.dll
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\bin\Debug\net5.0\ref\FoodStore.Domain.dll
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\bin\Debug\net5.0\FoodStore.Domain.pdb
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\obj\Debug\net5.0\FoodStore.Domain.csproj.AssemblyReference.cache
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\obj\Debug\net5.0\FoodStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\obj\Debug\net5.0\FoodStore.Domain.AssemblyInfoInputs.cache
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\obj\Debug\net5.0\FoodStore.Domain.AssemblyInfo.cs
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\obj\Debug\net5.0\FoodStore.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\obj\Debug\net5.0\FoodStore.Domain.dll
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\obj\Debug\net5.0\ref\FoodStore.Domain.dll
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\obj\Debug\net5.0\FoodStore.Domain.pdb
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\bin\Debug\net5.0\FoodStore.SharedKernal.dll
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\bin\Debug\net5.0\FoodStore.SharedKernal.pdb
+C:\workspace\learning\ddd\foodstoreapp\src\FoodStore.Domain\obj\Debug\net5.0\FoodStore.Domain.csproj.CopyComplete

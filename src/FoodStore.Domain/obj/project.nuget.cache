@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JxnqFLrTIILaM0AT1kt9wsBZHwspzffXk3gsgbFatZSAl+zlJK80UXrN4fS12AP58EH54wM9zwIbRp0Vwm9ADg==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\learning\\ddd\\foodstoreapp\\src\\FoodStore.Domain\\FoodStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsisodiya\\.nuget\\packages\\ardalis.guardclauses\\3.2.0\\ardalis.guardclauses.3.2.0.nupkg.sha512",
+    "C:\\Users\\jsisodiya\\.nuget\\packages\\ardalis.specification\\5.1.0\\ardalis.specification.5.1.0.nupkg.sha512",
+    "C:\\Users\\jsisodiya\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\jsisodiya\\.nuget\\packages\\jetbrains.annotations\\2021.1.0\\jetbrains.annotations.2021.1.0.nupkg.sha512",
+    "C:\\Users\\jsisodiya\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jsisodiya\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
